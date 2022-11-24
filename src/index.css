@@ -27,6 +27,10 @@
   width: 100%;
 }
 
+#about {
+  min-height: 100vh;
+}
+
 .hero-section h1 {
   font-weight: 800;
 }
@@ -65,16 +69,4 @@
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
-}
-
-.feature-card:hover {
-  box-shadow: var(--card-shadow);
-}
-
-.feedback-container .feedback-card:last-child {
-  margin-right: 0px;
-}
-
-.feedback-card {
-  background: transparent;
 }
