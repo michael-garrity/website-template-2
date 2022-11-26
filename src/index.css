@@ -27,12 +27,16 @@
   width: 100%;
 }
 
-#about, #features, #learnmore {
+#about, #features, #learnmore, #clients {
   min-height: 100vh;
 }
 
 .hero-section h1 {
   font-weight: 800;
+}
+
+.bg-card{
+  background: rgba(0,0,0,0.9)
 }
 
 .hero-section::before {

@@ -11,7 +11,7 @@ const Hero = () => {
             Lorem Ipsum
           </h1>
         </div>
-        <p className={`${styles.paragraph} text-black max-w-[470px] mt-5`}>
+        <p className={`${styles.paragraph} text-black max-w-[470px] mt-5 z-50`}>
         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
       </div>
